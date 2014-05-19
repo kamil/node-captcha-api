@@ -1,6 +1,6 @@
 {
   "name": "captcha-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Client for captcha solvers API",
   "main": "captcha-api.js",
   "author": "Kamil Załęski <kamil.zaleski@gmail.com>",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kamil/captcha-api"
+    "url": "https://github.com/kamil/node-captcha-api"
   },
   "engines": {
     "node": "*"

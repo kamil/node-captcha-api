@@ -8,6 +8,7 @@ CaptchaApi = (function () {
         this.provider = provider;
         this.apiSecret = apiSecret;
         this.checkInterval = checkInterval;
+        this.maxCheck = 5;
     }
 
     CaptchaApi.prototype.solve = function (data, cb) {
